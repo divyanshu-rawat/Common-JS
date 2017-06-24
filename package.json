@@ -1,0 +1,20 @@
+{
+  "name": "requiretoimport",
+  "version": "1.0.0",
+  "description": "require to es-6 import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "require",
+    "import"
+  ],
+  "author": "divyanshu rawat",
+  "license": "MIT",
+  "dependencies": {
+    "cjs-to-es6": "^1.0.1",
+    "express": "^4.15.3"
+  }
+}
